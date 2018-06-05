@@ -1,0 +1,51 @@
+{
+    "status": "ok",
+    "data":
+      {
+          "types": [
+                {
+                    "id": 1,
+                    "name": "dog"
+                },
+                {
+                    "id": 2,
+                    "name": "cat"
+                },
+                {
+                    "id": 3,
+                    "name": "fish"
+                }
+            ],
+            "pets": [
+                {
+                    "id": 1,
+                    "type": 1,
+                    "name": "Medor",
+                    "sex": 0,
+                    "birthdate": "2007-03-12"
+                },
+                {
+                    "id": 3,
+                    "type": 1,
+                    "name": "Simone",
+                    "sex": 1,
+                    "birthdate": "2014-05-01"
+                },
+                {
+                    "id": 25,
+                    "type": 3,
+                    "name": "Bubule",
+                    "sex": 1,
+                    "birthdate": "2017-10-02"
+                },
+                {
+                  "id": 28,
+                  "type": 2,
+                  "name": "Le chien",
+                  "sex": 0,
+                  "birthdate": "2018-03-09"
+                }
+            ]
+        }
+    }
+
