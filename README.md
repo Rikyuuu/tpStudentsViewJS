@@ -1,4 +1,4 @@
-# tuto
+# tpStudentsViewJS
 
 > A Vue.js project
 
